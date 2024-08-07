@@ -1,0 +1,34 @@
+[
+  {
+    "id": 1,
+    "name": "ram",
+    "pokemons": [
+      {
+        "id": 1,
+        "ownerName": "joy",
+        "name": "bulbasaur",
+        "ability": "overgrow",
+        "positionX": "10",
+        "positionY": "20",
+        "speed": "30",
+        "direction": "West"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Sri",
+    "pokemons": [
+      {
+        "id": 1,
+        "ownerName": "Sri",
+        "name": "charmander",
+        "ability": "blaze",
+        "positionX": "10",
+        "positionY": "10",
+        "speed": "17",
+        "direction": "South"
+      }
+    ]
+  }
+]
